@@ -47,6 +47,13 @@ ionic start testApp blank
 
 ### Ionic CLI 4.x.x
 
+Create an Ionic 3 app
+
+```shell
+ionic start testApp blank
+```
+
+Create an Ionic 4 app
 ```shell
 ionic start testApp blank --type=angular
 ```
